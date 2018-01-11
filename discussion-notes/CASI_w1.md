@@ -2,6 +2,12 @@
 # CASI Meetup - Week 1
 _Jan 10th, 2018_
 
+__DISCUSSING__:
+  - Chapter 1 - Algorithms and Inference
+  - Chapter 2 - Frequentist Inference
+  - Chapter 3 - Bayesian Inference
+
+
 ## Logistics
 Meeting every other week to discuss 2 chapters
 

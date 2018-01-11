@@ -44,9 +44,10 @@ We obtain a series of moments to characterize such function -- we never have the
 The true value is unkown but __fixed__.
 Concerned with $P(x|\theta)$ - the __probability of observing the sample data__ given the hypothesized parameter.
 
-_Confidence Interval:_
+_Confidence Interval:_  
 Cannot be interpreted as a probability, but rather about the repeated experiments.
-$$P(\theta \in I) = 0.95$$
+
+$P(\theta \in I) = 0.95$
 
 _It is a statement about the interval itself, and not about the paremeter (since it is fixed): if the experiment that generated the random sample x were repeated many times, 95% (or other) of such intervals constructed from those random samples would contain the true value of the parameter_
 
@@ -55,8 +56,10 @@ We get a series of functions that explain the data our understanding of the worl
 The Bayesian approach assumes that the "true" value is a __random variable__.
 Concerned with $P(\theta|x)$ - the __probability of the parameter__ value given the observed sample data.
 
-_Credibility Interval_(Bayesian confidence interval): 
+_Credibility Interval_(Bayesian confidence interval):  
 Given our actual belief of the world (the random variable of the true value), we know the uncertainty we have, and we can construct a credibility interval such that:
-$$P(\l \leq \theta \leq \h]) = 0.95$$
+
+$P(\l \leq \theta \leq \h]) = 0.95$
+
 _It is a question about the location of the parameter: Our value is 95% likely to be less than the high bound and more than the lower bound_
 

@@ -4,8 +4,8 @@
 ### Upcoming session
 
 Week 2 (Jan 25th, 2018):
-  - Chapter 3 - Fisherian Inference and Maximum Likelihood Estimation
-  - Chapter 4 - Parametric Models and Exponential Families
+  - Chapter 4 - Fisherian Inference and Maximum Likelihood Estimation
+  - Chapter 5 - Parametric Models and Exponential Families
 
 
 ### Past sessions

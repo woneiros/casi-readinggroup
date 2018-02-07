@@ -21,4 +21,4 @@ __For miscellaneous resources, both in this list, or as standalone files / subfo
 
 ### Miscellaneous Posts & Videos
  - [On the Beta distribution](http://varianceexplained.org/r/empirical_bayes_baseball/) [w2]
-
+ - On STAN and Bayesian reasoning: https://www.smartly.io/blog/tutorial-how-we-productized-bayesian-revenue-estimation-with-stan

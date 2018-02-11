@@ -3,10 +3,9 @@
 
 ### Upcoming session
 
-Week 3 (Feb 7th, 2018):
-  - Chapter 6 - Empirical Bayes  -- jizenman
-  - Chapter 7 - James-Stein Estimation and Ridge Regression  -- jim.chen
-
+Week 4 (Feb 21st, 2018):
+  - Chapter 8 - Generalized Linear Models and Regression Trees  -- jlandesman
+  - Chapter 9 - Survival Analysis and the EM Algorithm  -- will.monge
 
 ### Past sessions
 
@@ -19,5 +18,7 @@ Week 2 (Jan 25th, 2018):
   - Chapter 4 - Fisherian Inference and Maximum Likelihood Estimation  -- jlandesman
   - Chapter 5 - Parametric Models and Exponential Families  -- will.monge
 
-
+Week 3 (Feb 7th, 2018):
+  - Chapter 6 - Empirical Bayes  -- jizenman
+  - Chapter 7 - James-Stein Estimation and Ridge Regression  -- jim.chen
 

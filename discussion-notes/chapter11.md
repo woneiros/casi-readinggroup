@@ -22,7 +22,9 @@ Estimating everything,
 Evaluating this for the unbiasedness assumption of $p_0=0.5$, the standard error is approximately
  $$\sqrt{\frac{\pi}{2B}} \approx 0.028$$
  as calculated in the chapter notes.
-## 11.3 
+## 11.3 Bias-Corrected Confidence Intervals
+### BC
+### BCa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTEzMjI3Ml19
+eyJoaXN0b3J5IjpbLTE5MjQwOTAwOTRdfQ==
 -->

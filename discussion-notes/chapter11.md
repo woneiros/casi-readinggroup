@@ -27,7 +27,10 @@ Evaluating this for the unbiasedness assumption of $p_0=0.5$, the standard error
 ### BCa
 #### Estmating $a$
 ## 11.4 Second-order Accuracy
-%% Bootstrap
+## Bootstrap-t Intervals
+## Objective Bayes Intervals and Confidence Distributions
+### Objective Bayes intervals
+### Confidence distributio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM4Nzc0NjFdfQ==
+eyJoaXN0b3J5IjpbLTEwNTI0ODQ0XX0=
 -->

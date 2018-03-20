@@ -28,9 +28,11 @@ Evaluating this for the unbiasedness assumption of $p_0=0.5$, the standard error
 #### Estmating $a$
 ## 11.4 Second-order Accuracy
 ## Bootstrap-t Intervals
-## Objective Bayes Intervals and Confidence Distributions
+## Objective Bayes Intervals and the Confidence Distribution
 ### Objective Bayes intervals
-### Confidence distributio
+### Confidence distribution
+### What is a credible interval, and how does it differ from a confidence interval?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI0ODQ0XX0=
+eyJoaXN0b3J5IjpbLTE2OTg5OTkwODFdfQ==
 -->

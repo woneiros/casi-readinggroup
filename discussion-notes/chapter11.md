@@ -25,6 +25,7 @@ Evaluating this for the unbiasedness assumption of $p_0=0.5$, the standard error
 ## 11.3 Bias-Corrected Confidence Intervals
 ### BC
 ### BCa
+#### Estmating $a$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQwOTAwOTRdfQ==
+eyJoaXN0b3J5IjpbLTEyNTQ0ODI3MV19
 -->

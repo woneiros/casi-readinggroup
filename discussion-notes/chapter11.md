@@ -26,6 +26,8 @@ Evaluating this for the unbiasedness assumption of $p_0=0.5$, the standard error
 ### BC
 ### BCa
 #### Estmating $a$
+## 11.4 Second-order Accuracy
+%% Bootstrap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ0ODI3MV19
+eyJoaXN0b3J5IjpbLTE2NzM4Nzc0NjFdfQ==
 -->

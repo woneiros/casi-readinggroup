@@ -20,11 +20,11 @@ $$ \frac{dz}{dp}  = \frac{1}{\Phi'\left(\Phi^{-1}(p_0)\right)}
 
  Given $\tau = g(\theta)$, the delta method approximation is 
 
- $$\mathbf{se}(\tau) =g'(\theta)\,\mathbf{se}(\theta)$$
+ $$\mathbf{se}(\tau) =|g'(\theta)|\,\mathbf{se}(\theta)$$
 
 Estimating everything,
 
- $$\mathbf{\widehat{se}}(\hat\tau) =g'(\hat\theta)\,\mathbf{\widehat{se}}
+ $$\mathbf{\widehat{se}}(\hat\tau) =|g'(\hat\theta)|\,\mathbf{\widehat{se}}
 (\hat\theta)$$
 
 Bringing this back to $z_0$, they seem to use the binomial standard error, yielding
@@ -48,5 +48,5 @@ Evaluating this for the unbiasedness assumption of $p_0=0.5$, the standard error
 ### What is a credible interval, and how does it differ from a confidence interval?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA3MzgzNjRdfQ==
+eyJoaXN0b3J5IjpbMjA2MDUxNTEzMF19
 -->

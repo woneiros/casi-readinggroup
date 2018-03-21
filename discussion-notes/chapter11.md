@@ -45,8 +45,9 @@ Evaluating this for the unbiasedness assumption of $p_0=0.5$, the standard error
 ## 11.6 Objective Bayes Intervals and the Confidence Distribution
 ### Objective Bayes intervals
 ### Confidence distribution
+$$\hat\theta\[\alpha\] : \[0.1\]\to \Theta$$
 ### What is a credible interval, and how does it differ from a confidence interval?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDYxMzEwMTVdfQ==
+eyJoaXN0b3J5IjpbMjAyODY5MTUwMl19
 -->

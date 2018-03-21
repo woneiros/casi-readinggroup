@@ -47,9 +47,9 @@ Evaluating this for the unbiasedness assumption of $p_0=0.5$, the standard error
 ### Confidence distribution
 $$\hat\theta_\mathbf{x}[\alpha] : [0.1]\to \Theta$$
 $$\alpha = \mathrm{Pr}\left\{\theta \leq \hat\theta_\mathbf{x}[\alpha]\right\}$$
-$$\tilde{g}$$
+$$\tilde{g} = \frac{d\alpha}{d\theta}$$
 ### What is a credible interval, and how does it differ from a confidence interval?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDczMzUwMDVdfQ==
+eyJoaXN0b3J5IjpbLTExNDEwMDg3MjhdfQ==
 -->

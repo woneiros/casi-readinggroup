@@ -46,9 +46,10 @@ Evaluating this for the unbiasedness assumption of $p_0=0.5$, the standard error
 ### Objective Bayes intervals
 ### Confidence distribution
 $$\hat\theta_\mathbf{x}[\alpha] : [0.1]\to \Theta$$
-$$\alpha = \mathrm{Pr}\left\{\right\}$$
+$$\alpha = \mathrm{Pr}\left\{\theta \leq \hat\theta_\mathbf{x}[\alpha]\right\}$$
+$$\tilde{g}$$
 ### What is a credible interval, and how does it differ from a confidence interval?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTE4MDc1Nl19
+eyJoaXN0b3J5IjpbLTEwMDczMzUwMDVdfQ==
 -->

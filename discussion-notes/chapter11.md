@@ -50,9 +50,9 @@ $$\alpha = \mathrm{Pr}\left\{\theta \leq \hat\theta_\mathbf{x}[\alpha]\right\}$$
 $$\tilde{g} = \frac{d\alpha}{d\theta}$$
 The confidence density is the posterior density of *every* matching prior.
 
-We can approximate it by differentiating smoothed empirical CDF.
+We can approximate it by differentiating smoothed empirical CDF (percentile method) or a reweighting of this based on $p_0$ and $a$ for BC and 
 ### What is a credible interval, and how does it differ from a confidence interval?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTkzNDAyMzNdfQ==
+eyJoaXN0b3J5IjpbMTE5NTUyMzg1NF19
 -->

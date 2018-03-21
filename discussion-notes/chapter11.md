@@ -49,9 +49,10 @@ $$\hat\theta_\mathbf{x}[\alpha] : [0.1]\to \Theta$$
 $$\alpha = \mathrm{Pr}\left\{\theta \leq \hat\theta_\mathbf{x}[\alpha]\right\}$$
 $$\tilde{g} = \frac{d\alpha}{d\theta}$$
 The confidence density is the posterior density of *every* matching prior.
-We can apprx
+
+We can approximate it by differentiating smoothed empirical CDF.
 ### What is a credible interval, and how does it differ from a confidence interval?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDA5OTM4NV19
+eyJoaXN0b3J5IjpbLTE0OTkzNDAyMzNdfQ==
 -->

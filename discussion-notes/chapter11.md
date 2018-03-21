@@ -39,7 +39,7 @@ Evaluating this for the unbiasedness assumption of $p_0=0.5$, the standard error
 ## 11.3 Bias-Corrected Confidence Intervals
 ### BC
 ### BCa
-#### Estmating $a$
+#### Estimating $a$
 ## 11.4 Second-order Accuracy
 ## 11.5 Bootstrap-t Intervals
 ## 11.6 Objective Bayes Intervals and the Confidence Distribution
@@ -48,5 +48,5 @@ Evaluating this for the unbiasedness assumption of $p_0=0.5$, the standard error
 ### What is a credible interval, and how does it differ from a confidence interval?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDUxNTEzMF19
+eyJoaXN0b3J5IjpbLTE0NDYxMzEwMTVdfQ==
 -->

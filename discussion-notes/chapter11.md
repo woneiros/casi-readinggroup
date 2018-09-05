@@ -54,5 +54,5 @@ We can approximate it by differentiating smoothed empirical CDF (percentile meth
 ### What is a credible interval, and how does it differ from a confidence interval?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzMjU2MjY1XX0=
+eyJoaXN0b3J5IjpbNTE0MTE4ODA3LDg2MzI1NjI2NV19
 -->
